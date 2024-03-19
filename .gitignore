@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,sublimetext,visualstudio,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,sublimetext,visualstudio,visualstudiocode
 
+audios/*.mp3
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -619,4 +621,3 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/python,sublimetext,visualstudio,visualstudiocode
-
